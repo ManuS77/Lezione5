@@ -1,0 +1,979 @@
+* {
+    margin: 0px;
+    
+}
+
+.lol2{
+    display: flex;
+    justify-content: baseline;
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    width: 1500px;
+    
+}
+.lol{
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    width: 1500px;
+    height: 1500px;
+    background-color: rgb(0, 0, 0);
+    
+}
+.lol3{
+    display: flex;
+    justify-content: baseline;
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    width: 1500px;
+}
+
+
+.blocco{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+}
+
+.lol1{
+    display: flex;
+    justify-content: baseline;
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    width: 1500px;
+}
+
+@keyframes example {
+    from{
+        transform: translateY(0%);
+    }
+    to{
+        transform: translateY(600%);
+    }
+}
+
+@keyframes example2 {
+    from{
+        transform: translateY(600%);
+    }
+    to{
+        transform: translateY(0%); 
+    }
+}
+
+.pioggia1{
+    animation-name: example;
+    animation-duration: 7.4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia2{
+    animation-name: example;
+    animation-duration: 7.2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia3{
+    animation-name: example;
+    animation-duration: 7s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia4{
+    animation-name: example;
+    animation-duration: 6.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia5{
+    animation-name: example;
+    animation-duration: 6.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia6{
+    animation-name: example;
+    animation-duration: 6.4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia7{
+    animation-name: example;
+    animation-duration: 6.2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia8{
+    animation-name: example;
+    animation-duration: 6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia9{
+    animation-name: example;
+    animation-duration: 5.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia10{
+    animation-name: example;
+    animation-duration: 5.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia11{
+    animation-name: example;
+    animation-duration: 5.4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia12{
+    animation-name: example;
+    animation-duration: 5.2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia13{
+    animation-name: example;
+    animation-duration: 5s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia14{
+    animation-name: example;
+    animation-duration: 4.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia15{
+    animation-name: example;
+    animation-duration: 4.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia16{
+    animation-name: example;
+    animation-duration: 4.4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia17{
+    animation-name: example;
+    animation-duration: 4.2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia18{
+    animation-name: example;
+    animation-duration: 4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia19{
+    animation-name: example;
+    animation-duration: 3.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia20{
+    animation-name: example;
+    animation-duration: 3.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia21{
+    animation-name: example;
+    animation-duration: 3.4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia22{
+    animation-name: example;
+    animation-duration: 3.2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia23{
+    animation-name: example;
+    animation-duration: 3s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia24{
+    animation-name: example;
+    animation-duration: 2.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia25{
+    animation-name: example;
+    animation-duration: 2.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia26{
+    animation-name: example;
+    animation-duration: 2.4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia27{
+    animation-name: example;
+    animation-duration: 2.2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia28{
+    animation-name: example;
+    animation-duration: 2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia29{
+    animation-name: example;
+    animation-duration: 1.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia30{
+    animation-name: example;
+    animation-duration: 1.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia31{
+    animation-name: example;
+    animation-duration: 7.4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia32{
+    animation-name: example;
+    animation-duration: 7.2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia33{
+    animation-name: example;
+    animation-duration: 7s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia34{
+    animation-name: example;
+    animation-duration: 6.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia35{
+    animation-name: example;
+    animation-duration: 6.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia36{
+    animation-name: example;
+    animation-duration: 6.4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia37{
+    animation-name: example;
+    animation-duration: 6.2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia38{
+    animation-name: example;
+    animation-duration: 6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia39{
+    animation-name: example;
+    animation-duration: 5.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia40{
+    animation-name: example;
+    animation-duration: 5.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia41{
+    animation-name: example;
+    animation-duration: 5.4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia42{
+    animation-name: example;
+    animation-duration: 5.2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia43{
+    animation-name: example;
+    animation-duration: 5s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia44{
+    animation-name: example;
+    animation-duration: 4.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia45{
+    animation-name: example;
+    animation-duration: 4.6s;
+    width: 50px;
+    height: 50px;
+}
+
+.pioggia46{
+    animation-name: example;
+    animation-duration: 4.4s;
+    width: 50px;
+    height: 50px;
+}
+
+.pioggia47{
+    animation-name: example;
+    animation-duration: 4.2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia48{
+    animation-name: example;
+    animation-duration: 4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia49{
+    animation-name: example;
+    animation-duration: 3.8s;
+    width: 50px;
+    height: 50px;
+}
+
+.pioggia50{
+    animation-name: example;
+    animation-duration: 3.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia51{
+    animation-name: example;
+    animation-duration: 3.4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia52{
+    animation-name: example;
+    animation-duration: 3.2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia53{
+    animation-name: example;
+    animation-duration: 3s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia54{
+    animation-name: example;
+    animation-duration: 2.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia55{
+    animation-name: example;
+    animation-duration: 2.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia56{
+    animation-name: example;
+    animation-duration: 2.4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia57{
+    animation-name: example;
+    animation-duration: 2.2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia58{
+    animation-name: example;
+    animation-duration: 2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia59{
+    animation-name: example;
+    animation-duration: 1.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia60{
+    animation-name: example;
+    animation-duration: 1.6s;
+    width: 50px;
+    height: 50px;
+}
+
+.pioggia61{
+    animation-name: example2;
+    animation-duration: 7.2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia62{
+    animation-name: example2;
+    animation-duration: 7s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia63{
+    animation-name: example2;
+    animation-duration: 6.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia64{
+    animation-name: example2;
+    animation-duration: 6.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia65{
+    animation-name: example2;
+    animation-duration: 6.4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia66{
+    animation-name: example2;
+    animation-duration: 6.2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia67{
+    animation-name: example2;
+    animation-duration: 6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia68{
+    animation-name: example2;
+    animation-duration: 5.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia69{
+    animation-name: example2;
+    animation-duration: 5.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia70{
+    animation-name: example2;
+    animation-duration: 5.4s;
+    width: 50px;
+    height: 50px;
+}
+
+.pioggia71{
+    animation-name: example2;
+    animation-duration: 5.2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia72{
+    animation-name: example2;
+    animation-duration: 5s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia73{
+    animation-name: example2;
+    animation-duration: 4.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia74{
+    animation-name: example2;
+    animation-duration: 4.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia75{
+    animation-name: example2;
+    animation-duration: 4.4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia76{
+    animation-name: example2;
+    animation-duration: 4.2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia77{
+    animation-name: example2;
+    animation-duration: 4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia78{
+    animation-name: example2;
+    animation-duration: 3.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia79{
+    animation-name: example2;
+    animation-duration: 3.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia80{
+    animation-name: example2;
+    animation-duration: 3.4s;
+    width: 50px;
+    height: 50px;
+}
+
+.pioggia81{
+    animation-name: example2;
+    animation-duration: 3.2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia82{
+    animation-name: example2;
+    animation-duration: 3s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia83{
+    animation-name: example2;
+    animation-duration: 2.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia84{
+    animation-name: example2;
+    animation-duration: 2.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia85{
+    animation-name: example2;
+    animation-duration: 2.4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia86{
+    animation-name: example2;
+    animation-duration: 2.2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia87{
+    animation-name: example2;
+    animation-duration: 2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia88{
+    animation-name: example2;
+    animation-duration: 1.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia89{
+    animation-name: example2;
+    animation-duration: 1.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia90{
+    animation-name: example2;
+    animation-duration: 1.4s;
+    width: 50px;
+    height: 50px;
+}
+
+.pioggia91{
+    animation-name: example;
+    animation-duration: 7s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia92{
+    animation-name: example;
+    animation-duration: 6.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia93{
+    animation-name: example;
+    animation-duration: 6.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia94{
+    animation-name: example;
+    animation-duration: 6.4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia95{
+    animation-name: example;
+    animation-duration: 6.2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia96{
+    animation-name: example;
+    animation-duration: 6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia97{
+    animation-name: example;
+    animation-duration: 5.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia98{
+    animation-name: example;
+    animation-duration: 5.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia99{
+    animation-name: example;
+    animation-duration: 5.4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia100{
+    animation-name: example;
+    animation-duration: 5.2s;
+    width: 50px;
+    height: 50px;
+}
+
+.pioggia101{
+    animation-name: example;
+    animation-duration: 5s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia102{
+    animation-name: example;
+    animation-duration: 4.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia103{
+    animation-name: example;
+    animation-duration: 4.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia104{
+    animation-name: example;
+    animation-duration: 4.4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia105{
+    animation-name: example;
+    animation-duration: 4.2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia106{
+    animation-name: example;
+    animation-duration: 4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia107{
+    animation-name: example;
+    animation-duration: 3.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia108{
+    animation-name: example;
+    animation-duration: 3.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia109{
+    animation-name: example;
+    animation-duration: 3.4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia110{
+    animation-name: example;
+    animation-duration: 3.2s;
+    width: 50px;
+    height: 50px;
+}
+
+.pioggia111{
+    animation-name: example;
+    animation-duration: 3s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia112{
+    animation-name: example;
+    animation-duration: 2.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia113{
+    animation-name: example;
+    animation-duration: 2.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia114{
+    animation-name: example;
+    animation-duration: 2.4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia115{
+    animation-name: example;
+    animation-duration: 2.2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia116{
+    animation-name: example;
+    animation-duration: 2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia117{
+    animation-name: example;
+    animation-duration: 1.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia118{
+    animation-name: example;
+    animation-duration: 1.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia119{
+    animation-name: example;
+    animation-duration: 1.4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia120{
+    animation-name: example;
+    animation-duration: 1.2s;
+    width: 50px;
+    height: 50px;
+}
+
+.pioggia121{
+    animation-name: example2;
+    animation-duration: 6.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia122{
+    animation-name: example2;
+    animation-duration: 6.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia123{
+    animation-name: example2;
+    animation-duration: 6.4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia124{
+    animation-name: example2;
+    animation-duration: 6.2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia125{
+    animation-name: example2;
+    animation-duration: 6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia126{
+    animation-name: example2;
+    animation-duration: 5.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia127{
+    animation-name: example2;
+    animation-duration: 5.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia128{
+    animation-name: example2;
+    animation-duration: 5.4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia129{
+    animation-name: example2;
+    animation-duration: 5.2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia130{
+    animation-name: example2;
+    animation-duration: 5s;
+    width: 50px;
+    height: 50px;
+}
+
+.pioggia131{
+    animation-name: example2;
+    animation-duration: 4.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia132{
+    animation-name: example2;
+    animation-duration: 4.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia133{
+    animation-name: example2;
+    animation-duration: 4.4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia134{
+    animation-name: example2;
+    animation-duration: 4.2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia135{
+    animation-name: example2;
+    animation-duration: 4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia136{
+    animation-name: example2;
+    animation-duration: 3.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia137{
+    animation-name: example2;
+    animation-duration: 3.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia138{
+    animation-name: example2;
+    animation-duration: 3.4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia139{
+    animation-name: example2;
+    animation-duration: 3.2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia140{
+    animation-name: example2;
+    animation-duration: 3s;
+    width: 50px;
+    height: 50px;
+}
+
+.pioggia141{
+    animation-name: example2;
+    animation-duration: 2.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia142{
+    animation-name: example2;
+    animation-duration: 2.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia143{
+    animation-name: example2;
+    animation-duration: 2.4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia144{
+    animation-name: example2;
+    animation-duration: 2.2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia145{
+    animation-name: example2;
+    animation-duration: 2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia146{
+    animation-name: example2;
+    animation-duration: 1.8s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia147{
+    animation-name: example2;
+    animation-duration: 1.6s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia148{
+    animation-name: example2;
+    animation-duration: 1.4s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia149{
+    animation-name: example2;
+    animation-duration: 1.2s;
+    width: 50px;
+    height: 50px;
+}
+.pioggia150{
+    animation-name: example2;
+    animation-duration: 1s;
+    width: 50px;
+    height: 50px;
+}
+
